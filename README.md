@@ -48,7 +48,9 @@ SyntaxError: Unexpected token '?'
 <h4>3.Set the newly installed Node.js version as the default version:
 </h4>
 <img src="https://github.com/anaghaaaa/Metaverse/blob/c3f6837f2019550153aebcfd9d869eac1274ab5c/Screenshot%20from%202023-07-17%2013-19-59.png " alt="npm run dev successful run" width="1000" height="500">
-
+<br>
+<p> On clicking on the localhost link at the output of <b>npm run dev</b> you will get the following web page in selected browser </p>
+<img src="https://github.com/anaghaaaa/Metaverse/blob/a99fdc04c540fc106306d0b2499e7b03ad0dee24/initial%20web%20page%20view.png " alt="npm run dev successful run" width="1000" height="500">
 <h5>nvm use --lts</h5>
 <h4>4.Verify that your Node.js version has been updated by running: </h4>
 <h5>node -v</h5>
