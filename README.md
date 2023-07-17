@@ -47,6 +47,8 @@ SyntaxError: Unexpected token '?'
 <h5>nvm install --lts</h5>
 <h4>3.Set the newly installed Node.js version as the default version:
 </h4>
+<img src=Screenshot from 2023-07-17 13-19-59.png" alt="npm run dev successful run" width="300" height="200">
+
 <h5>nvm use --lts</h5>
 <h4>4.Verify that your Node.js version has been updated by running: </h4>
 <h5>node -v</h5>
